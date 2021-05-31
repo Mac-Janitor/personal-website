@@ -12,7 +12,7 @@
 	<div class="navigation">
 		<ul class="container">
 			<li><a href="projects.html" class="removeStyling">Projects</a></li>
-			<li><a href="contact.html" class="removeStyling">Contact</a></li>
+			<li><a href="contact.php" class="removeStyling">Contact</a></li>
 			<li><a href="https://www.jordanmcclintock.com" class="removeStyling">About</a></li>
     	</ul>
 	</div>
